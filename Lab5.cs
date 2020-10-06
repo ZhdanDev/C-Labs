@@ -4,7 +4,7 @@
 
 using System;
 
-namespace Lab3
+namespace Lab5
 {
     class Program
     {
