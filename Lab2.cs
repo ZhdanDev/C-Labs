@@ -6,7 +6,7 @@ namespace Lab2
 {
     class Program
     {
-        public static double GetSum(double n, double k)
+        public static double LineSum(double n, double k)
         {
             double res = 0;
             for (int i = 0; i < k; i++)
@@ -21,7 +21,7 @@ namespace Lab2
             int n = Convert.ToInt32(Console.ReadLine());
             int k = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(GetSum(n,k));
+            Console.WriteLine(LineSum(n,k));
         }
     }
 }
