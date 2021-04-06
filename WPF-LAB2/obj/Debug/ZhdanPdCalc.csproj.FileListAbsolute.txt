@@ -1,0 +1,10 @@
+C:\Users\Zhdan\Source\Repos\Calculator-App\BasicCalculator\obj\Debug\ZhdanPdCalc.csprojAssemblyReference.cache
+C:\Users\Zhdan\Source\Repos\Calculator-App\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+C:\Users\Zhdan\Source\Repos\Calculator-App\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\Zhdan\Source\Repos\Calculator-App\BasicCalculator\obj\Debug\ZhdanPdCalc.csproj.GenerateResource.cache
+C:\Users\Zhdan\Source\Repos\Calculator-App\BasicCalculator\obj\Debug\ZhdanPdCalc.csproj.CoreCompileInputs.cache
+C:\Users\Zhdan\Source\Repos\Calculator-App\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\Zhdan\Source\Repos\Calculator-App\BasicCalculator\obj\Debug\BasicCalculator.pdb
+C:\Users\Zhdan\Source\Repos\Calculator-App\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\Zhdan\Source\Repos\Calculator-App\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\Zhdan\Source\Repos\Calculator-App\BasicCalculator\bin\Debug\BasicCalculator.pdb
