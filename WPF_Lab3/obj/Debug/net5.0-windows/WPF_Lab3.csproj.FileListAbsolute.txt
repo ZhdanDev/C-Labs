@@ -1,0 +1,36 @@
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\bin\Debug\net5.0-windows\WPF_Lab3.exe
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\bin\Debug\net5.0-windows\WPF_Lab3.deps.json
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\bin\Debug\net5.0-windows\WPF_Lab3.runtimeconfig.json
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\bin\Debug\net5.0-windows\WPF_Lab3.runtimeconfig.dev.json
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\bin\Debug\net5.0-windows\WPF_Lab3.dll
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\bin\Debug\net5.0-windows\ref\WPF_Lab3.dll
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\bin\Debug\net5.0-windows\WPF_Lab3.pdb
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\obj\Debug\net5.0-windows\WFLaba3.Form1.resources
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\obj\Debug\net5.0-windows\WPF_Lab3.csproj.GenerateResource.cache
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\obj\Debug\net5.0-windows\WPF_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\obj\Debug\net5.0-windows\WPF_Lab3.AssemblyInfoInputs.cache
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\obj\Debug\net5.0-windows\WPF_Lab3.AssemblyInfo.cs
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\obj\Debug\net5.0-windows\WPF_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\obj\Debug\net5.0-windows\WPF_Lab3.dll
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\obj\Debug\net5.0-windows\ref\WPF_Lab3.dll
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\obj\Debug\net5.0-windows\WPF_Lab3.pdb
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\obj\Debug\net5.0-windows\WPF_Lab3.genruntimeconfig.cache
+C:\Users\Zhdan\OneDrive\Робочий стіл\С#LABS\WFLaba3\obj\Debug\net5.0-windows\WPF_Lab3.csprojAssemblyReference.cache
+D:\ZhdanLabs\WPF_Lab3\bin\Debug\net5.0-windows\WPF_Lab3.exe
+D:\ZhdanLabs\WPF_Lab3\bin\Debug\net5.0-windows\WPF_Lab3.deps.json
+D:\ZhdanLabs\WPF_Lab3\bin\Debug\net5.0-windows\WPF_Lab3.runtimeconfig.json
+D:\ZhdanLabs\WPF_Lab3\bin\Debug\net5.0-windows\WPF_Lab3.runtimeconfig.dev.json
+D:\ZhdanLabs\WPF_Lab3\bin\Debug\net5.0-windows\WPF_Lab3.dll
+D:\ZhdanLabs\WPF_Lab3\bin\Debug\net5.0-windows\ref\WPF_Lab3.dll
+D:\ZhdanLabs\WPF_Lab3\bin\Debug\net5.0-windows\WPF_Lab3.pdb
+D:\ZhdanLabs\WPF_Lab3\obj\Debug\net5.0-windows\WPF_Lab3.csprojAssemblyReference.cache
+D:\ZhdanLabs\WPF_Lab3\obj\Debug\net5.0-windows\WFLaba3.Form1.resources
+D:\ZhdanLabs\WPF_Lab3\obj\Debug\net5.0-windows\WPF_Lab3.csproj.GenerateResource.cache
+D:\ZhdanLabs\WPF_Lab3\obj\Debug\net5.0-windows\WPF_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZhdanLabs\WPF_Lab3\obj\Debug\net5.0-windows\WPF_Lab3.AssemblyInfoInputs.cache
+D:\ZhdanLabs\WPF_Lab3\obj\Debug\net5.0-windows\WPF_Lab3.AssemblyInfo.cs
+D:\ZhdanLabs\WPF_Lab3\obj\Debug\net5.0-windows\WPF_Lab3.csproj.CoreCompileInputs.cache
+D:\ZhdanLabs\WPF_Lab3\obj\Debug\net5.0-windows\WPF_Lab3.dll
+D:\ZhdanLabs\WPF_Lab3\obj\Debug\net5.0-windows\ref\WPF_Lab3.dll
+D:\ZhdanLabs\WPF_Lab3\obj\Debug\net5.0-windows\WPF_Lab3.pdb
+D:\ZhdanLabs\WPF_Lab3\obj\Debug\net5.0-windows\WPF_Lab3.genruntimeconfig.cache
